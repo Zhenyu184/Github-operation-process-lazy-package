@@ -1,3 +1,13 @@
 # Github-operation-process-lazy-package
 
-1231321231321312312
+
+
+## Linux安裝(Linux Installation)
+
+`$ apt-get install git`
+
+`$ yum install git-core`
+
+
+
+## 懶人上傳流程(Lazy Upload SOP)
